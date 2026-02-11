@@ -1,6 +1,6 @@
-# 🚸 Cross Wisely – Smart Traffic AI
+# 🚸 Cross Wizely – Smart Traffic AI
 
-**Cross Wisely** is an AI-powered pedestrian crossing system that dynamically calculates safe road-crossing windows using real-time vehicle speed and distance. This system aims to replace traditional traffic signals and zebra crossings with a smarter, risk-assessed solution for pedestrians.
+**Cross Wizely** is an AI-powered pedestrian crossing system that dynamically calculates safe road-crossing windows using real-time vehicle speed and distance. This system aims to replace traditional traffic signals and zebra crossings with a smarter, risk-assessed solution for pedestrians.
 
 ---
 
