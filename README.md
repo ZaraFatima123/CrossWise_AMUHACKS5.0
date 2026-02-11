@@ -52,30 +52,22 @@
   ```bash
      cd Frontend
      npm run dev
-UI Overview
 
-Header: Project name and description
+## 🖼️ UI Overview
 
-Upload Section: Upload your video file
+- **Header:** Project name and description
+- **Upload Section:** Upload your video file
+- **Frame Progress:** Live frame processing with percentage bar
+- **Vehicle Table:** Shows vehicle ID, speed, distance, and safe crossing time
+- **Voice Alerts:** Play safe crossing time in English or Hindi
+- **Download:** Processed video download
+- **Sign Language Placeholder:** Coming soon
 
-Frame Progress: Live frame processing with percentage bar
+---
 
-Vehicle Table: Shows vehicle ID, speed, distance, and safe crossing time
+## 🚀 Future Improvements
 
-Voice Alerts: Play safe crossing time in English or Hindi
-
-Download: Processed video download
-
-Sign Language Placeholder: Coming soon
-
-🚀 Future Improvements
-
-Sign Language Integration for safe crossing guidance
-
-Improved vehicle tracking and risk prediction
-
-Mobile-friendly responsive UI
-
-Support for multiple cameras and intersections   
-       
-    
+- Sign Language Integration for safe crossing guidance
+- Improved vehicle tracking and risk prediction
+- Mobile-friendly responsive UI
+- Support for multiple cameras and intersections
