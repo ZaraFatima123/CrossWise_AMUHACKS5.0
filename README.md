@@ -58,7 +58,7 @@
      npm run dev
 
 
-  ## 🖼️ UI Overview
+## UI Overview
 
 - **Header:** Project name and description
 - **Upload Section:** Upload your video file
