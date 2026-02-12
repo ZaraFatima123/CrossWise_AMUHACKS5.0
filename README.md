@@ -52,13 +52,33 @@
 3. Run the backend server:
    ```bash
     uvicorn app:app --reload
-4. Run Frontend
+4. Frontend Setup (React)
 
-Navigate to the frontend folder:
+Navigate to frontend folder:
 
 ```bash
 cd Frontend
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
 npm run dev
+```
+
+Frontend runs at:
+
+```
+http://localhost:5173
+```
+
+---
 
 
 ## 🖥️ UI Overview
