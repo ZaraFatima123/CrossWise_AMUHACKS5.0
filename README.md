@@ -52,13 +52,17 @@
 3. Run the backend server:
    ```bash
     uvicorn app:app --reload
-4. Run frontend, navigate to frontend folder
-  ```bash
+4. Run Frontend
+
+Navigate to the frontend folder:
+
+```bash
 cd Frontend
 npm run dev
 
 
-**UI Overview**
+## 🖥️ UI Overview
+
 
 - **Header:** Project name and description
 - **Upload Section:** Upload your video file
