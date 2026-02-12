@@ -2,8 +2,7 @@
 
 **Cross Wizely** is an AI-powered pedestrian crossing system that dynamically calculates safe road-crossing windows using real-time vehicle speed and distance. This system aims to replace traditional traffic signals and zebra crossings with a smarter, risk-assessed solution for pedestrians.
 
-![Alt text](https://github.com/your-username/your-repo/blob/main/WhatsApp%20Image%202026-02-12%20at%201.10.12%20AM.jpeg?raw=true)
-
+https://github.com/ZaraFatima123/CrossWise_AMUHACKS5.0/blob/main/WhatsApp%20Image%202026-02-12%20at%201.10.12%20AM.jpeg?raw=true
 ---
 
 ## 🌟 Features
