@@ -54,8 +54,8 @@
     uvicorn app:app --reload
 4. Run frontend, navigate to frontend folder
   ```bash
-     cd Frontend
-     npm run dev
+cd Frontend
+npm run dev
 
 
 ## UI Overview
